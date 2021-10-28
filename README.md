@@ -18,7 +18,7 @@ Following an urgent request for the MHRA and Chief Medical Officer, the analyses
 
 The issues outlined above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-* [CCU002_01: TBC](https://github.com/BHFDSC/CCU002_01)
+* [CCU002_01: SARS-CoV-2 infection and risk of major vascular events](https://github.com/BHFDSC/CCU002_01)
 * [CCU002_02: SARS-CoV-2 vaccination and risk of venous thromboembolism and arterial thrombotic events](https://github.com/BHFDSC/CCU002_02)
 
 > Links to repositories for additional outputs will follow in due course.
