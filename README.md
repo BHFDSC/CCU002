@@ -21,6 +21,7 @@ The issues outlined above will be addressed in outputs from a number of related 
 * [CCU002_01: SARS-CoV-2 infection and risk of major vascular events](https://github.com/BHFDSC/CCU002_01)
 * [CCU002_02: SARS-CoV-2 vaccination and risk of venous thromboembolism and arterial thrombotic events](https://github.com/BHFDSC/CCU002_02)
 * [CCU002_03: Risk of myocarditis and pericarditis following COVID-19 vaccination in England and Wales](https://github.com/BHFDSC/CCU002_03)
+* [CCU002_06: Long-term cardiovascular safety of COVID-19 vaccination according to brand, dose and combinations: cohort study of 46 million adults in England](https://github.com/BHFDSC/CCU002_06)
 
 > Links to repositories for additional outputs will follow in due course.
 
