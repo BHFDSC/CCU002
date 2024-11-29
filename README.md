@@ -21,6 +21,7 @@ The issues outlined above will be addressed in outputs from a number of related 
 * [CCU002_01: Association of COVID-19 with major arterial and venous thrombotic diseases: a population-wide cohort study of 48 million adults in England and Wales](https://github.com/BHFDSC/CCU002_01)
 * [CCU002_02: Association of COVID-19 vaccines ChAdOx1 and BNT162b2 with major venous, arterial, or thrombocytopenic events: A population-based cohort study of 46 million adults in England](https://github.com/BHFDSC/CCU002_02)
 * [CCU002_03: Risk of myocarditis and pericarditis following BNT162b2 and ChAdOx1 COVID-19 vaccinations](https://github.com/BHFDSC/CCU002_03)
+* [CCU002_04: Risks of major arterial and venous thrombotic diseases after hospitalisation for influenza, pneumonia, and COVID-19: A population-wide cohort in 2.6 million people in Wales](https://github.com/BHFDSC/CCU002_04)
 * [CCU002_06: Cohort study of cardiovascular safety of different COVID-19 vaccination doses among 46 million adults in England](https://github.com/BHFDSC/CCU002_06)
 
 > Links to repositories for additional outputs will follow in due course.
